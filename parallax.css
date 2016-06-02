@@ -1,0 +1,11 @@
+<style>
+A{text-decoration:none}
+
+body{
+background-color: lightblue;
+</style>
+
+.cancela,.cancela:link,.cancela:visited,.cancela:hover,.cancela:focus,.cancela:active{
+    color: inherit;
+    text-decoration: none;
+}
